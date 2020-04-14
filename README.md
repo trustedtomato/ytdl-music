@@ -4,7 +4,7 @@ A wrapper around ytdl-core for mp3 download.
 ## Prerequisites
 You'll have to have [ffmpeg](https://ffmpeg.org/) installed on your machine.
 
-## Install
+## Installation
 TODO
 
 ## How to use it?
