@@ -7,7 +7,7 @@ You'll have to have [ffmpeg](https://ffmpeg.org/) installed on your machine.
 ## Installation
 TODO
 
-## How to use it?
+## Usage
 `ytdl-music [url-to-download-from]`
 
 ## How does it work?
