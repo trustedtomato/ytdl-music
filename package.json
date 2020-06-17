@@ -4,13 +4,26 @@
   "main": "index.js",
   "author": "Tamás Halasi",
   "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "dependencies": {
+    "camelcase": "^6.0.0",
     "got": "^10.7.0",
     "guess-metadata": "^1.2.2",
+    "inquirer": "^7.2.0",
     "node-id3": "^0.1.16",
     "query-string": "^6.12.1",
     "yargs": "^15.3.1",
     "ytdl": "^1.3.0",
     "ytdl-core": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
   }
 }

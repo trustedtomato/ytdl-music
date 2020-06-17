@@ -18,7 +18,7 @@ const ids = [
   'hqVn9UT9hKg'
 ]
 
-;(async function(){
+;(async function () {
   for (const id of ids) {
     const metadata = await getMetadata(id)
     console.log(metadata)
